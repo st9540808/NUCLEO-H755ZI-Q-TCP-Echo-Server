@@ -1,5 +1,10 @@
 # NUCLEO-H755ZI-Q TCP Echo Server
 
+## 硬體連接方式
+
+1. NUCLEO-H755ZI-Q 板子上位於 CN1 的 USB-Micro 接到電腦
+2. NUCLEO-H755ZI-Q Ethernet (CN14) 連接到電腦的 RJ45 網路孔
+
 ## 步驟
 
 1. 編譯專案 CM4 和 CM7，並下載這兩個程式到版子上
